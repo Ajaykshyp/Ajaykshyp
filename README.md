@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ajay Kashyap</h1>
 <h3 align="center">A passionate Python developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaykshyp&label=Profile%20views&color=0e75b6&style=flat" alt="ajaykshyp" /> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Backend+End+Developer;Nice+To+Meet+You+...&center=true">
+  </p>
 
 - 🌱 I’m currently learning **Python , DRF , DJANGO , JWT**
 
