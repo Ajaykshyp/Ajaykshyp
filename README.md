@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ajaykshyp
+- 👋 Hi, I’m @Ajay_kashyap
 - 👀 I’m interested in ...Coidng I have good hand in java as well as in python
 - 🌱 I’m currently learning ...pursuing MCA
 - 💞️ I’m looking to collaborate on ...Software and web development
